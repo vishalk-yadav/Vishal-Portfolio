@@ -2,6 +2,11 @@
 
 **B.Tech CSE (AI & ML) Student | Aspiring AI/ML Engineer**
 
+<p>
+  <a href="https://vishal-portfolio-sage-mu.vercel.app/">🌐 Live Demo</a> ·
+  <a href="https://github.com/vishalk-yadav/Vishal-Portfolio">📂 Repository</a>
+</p>
+
 ---
 
 ## About Me
